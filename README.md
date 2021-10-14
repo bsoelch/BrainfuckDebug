@@ -12,6 +12,7 @@ for interpreting and
 -d [Filename]
 ```
 for debugging.
+
 3. For a list of the available debug opetions input 
 ```
 > help
