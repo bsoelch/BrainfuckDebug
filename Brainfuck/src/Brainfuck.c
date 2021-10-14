@@ -469,9 +469,10 @@ int main(int numArgs,char** args) {
 			printf("Memory Error\n");
 			return EXIT_FAILURE;
 		}
-		//For debugging
+		//print buffer
 		buffer[size]='\0';//null-terminate string (for printf)
 		printf("Contents of File:\n%s\n",buffer);
+
 		CodeState* state=newCodeState();
 		if(state==NULL){
 			printf("Out of Memory");
