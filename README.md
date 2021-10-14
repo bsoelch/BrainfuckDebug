@@ -1,5 +1,5 @@
 # BrainfuckDebug
-[Brainfuck](https://esolangs.org/wiki/Brainfuck) Interpreter and Debugger
+[Brainfuck](https://esolangs.org/wiki/Brainfuck) Interpreter and Debugger with unbounded tape
 
 ## Usage
 1. compile C program
