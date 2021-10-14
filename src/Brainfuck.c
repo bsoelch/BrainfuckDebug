@@ -2,9 +2,7 @@
  ============================================================================
  Name        : Hello.c
  Author      : bsoelch
- Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : Brainfuck Interpreter and Debugger
  ============================================================================
  */
 
